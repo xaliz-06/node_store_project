@@ -1,0 +1,12 @@
+***Node.js Program Lifecycle***
+
+node app.js => Start script 
+parse code, register variables and functions
+event loop => keeps on running as long as there are event listeners registered.
+
+**Worker Pool
+
+Does the heavylifting and can take up many  threads
+
+**Event Loop
+
